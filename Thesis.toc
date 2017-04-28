@@ -1,0 +1,44 @@
+\contentsline {section}{List of tables}{10}{Doc-Start}
+\contentsline {section}{List of figures}{11}{Doc-Start}
+\contentsline {section}{Listings}{12}{Doc-Start}
+\contentsline {section}{Introduction}{13}{section*.1}
+\contentsline {section}{\numberline {1}Description and Analysis of the Domain}{15}{section.1}
+\contentsline {subsection}{\numberline {1.1}The workflow of the system}{16}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Similar products on the market}{16}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}The development environment}{17}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Back-end implementation: Ruby on Rails}{18}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Model-View-Controller architecture inside Rails}{19}{subsubsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.3}Handling Models with Active Record}{20}{subsubsection.1.3.3}
+\contentsline {subsubsection}{\numberline {1.3.4}Front-end implementation: Bootstrap, CSS and JavaScript }{20}{subsubsection.1.3.4}
+\contentsline {section}{\numberline {2}Analysis of the application from architectural point of view}{22}{section.2}
+\contentsline {subsection}{\numberline {2.1}System requirements}{22}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Representation of the system via Use Case Diagrams}{23}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}System Analysis using Activity Diagrams}{27}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Process interaction analysis using Sequence Diagram}{31}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}The Database Model of the system}{33}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Final stage of product development: Deployment Diagram}{34}{subsection.2.6}
+\contentsline {section}{\numberline {3}Implementation and development methodologies}{36}{section.3}
+\contentsline {subsection}{\numberline {3.1}Project configuration}{36}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Back-end implementation of the application}{38}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Front-end implementation of the application}{44}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}User's experience handling the product}{47}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Using the application as administrator}{48}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Using the application as teacher/student}{51}{subsubsection.3.4.2}
+\contentsline {section}{\numberline {4}Economic Analysis}{54}{section.4}
+\contentsline {subsection}{\numberline {4.1}Project description}{54}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Project time schedule}{55}{subsection.4.2}
+\newpage 
+\contentsline {subsubsection}{\numberline {4.2.1}SWOT Analysis}{55}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Defining objectives}{56}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Time schedule establishment}{56}{subsubsection.4.2.3}
+\contentsline {subsection}{\numberline {4.3}Economic motivation}{57}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Tangible and intangible asset expenses}{58}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Salary expenses}{59}{subsubsection.4.3.2}
+\contentsline {subsection}{\numberline {4.4}Individual person salary}{60}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Indirect expenses}{61}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}Wear and depreciation}{61}{subsubsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.3}Product cost}{62}{subsubsection.4.4.3}
+\contentsline {subsubsection}{\numberline {4.4.4}Economic indicators and results}{63}{subsubsection.4.4.4}
+\contentsline {subsection}{\numberline {4.5}Economic conclusions}{64}{subsection.4.5}
+\contentsline {section}{Conclusions}{65}{section*.33}
+\contentsline {section}{References}{67}{section*.34}

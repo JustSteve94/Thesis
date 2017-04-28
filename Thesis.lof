@@ -1,0 +1,21 @@
+\contentsline {figure}{\numberline {1.1}{\ignorespaces MVC pattern integration with Rails, \cite {mvc}\relax }}{19}{figure.caption.2}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Use case diagram for Universities\relax }}{24}{figure.caption.3}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Use case diagram for Faculties\relax }}{25}{figure.caption.4}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Use case diagram for Timetables\relax }}{26}{figure.caption.5}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Use case diagram for Courses\relax }}{27}{figure.caption.6}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Activity diagram for adding new Group\relax }}{29}{figure.caption.7}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Activity diagram for adding new Timetable\relax }}{30}{figure.caption.8}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Sequence Diagram for editing an existing Faculty\relax }}{32}{figure.caption.9}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Database model of the application\relax }}{33}{figure.caption.10}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Deployment model of the system\relax }}{35}{figure.caption.11}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Rails Welcome page\relax }}{37}{figure.caption.13}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Admin log-in form\relax }}{48}{figure.caption.15}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Adding new universities process\relax }}{49}{figure.caption.16}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Teacher registration\relax }}{49}{figure.caption.17}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Form for adding a new course\relax }}{50}{figure.caption.18}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Final representation of a timetable for admin\relax }}{50}{figure.caption.19}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Home page of the application\relax }}{51}{figure.caption.20}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Teacher's log in form\relax }}{51}{figure.caption.21}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Student's sign up form\relax }}{52}{figure.caption.22}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Teacher's current timetable\relax }}{52}{figure.caption.23}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Teacher's weekly timetable\relax }}{53}{figure.caption.24}
