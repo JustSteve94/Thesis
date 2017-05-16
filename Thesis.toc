@@ -17,5 +17,54 @@
 \contentsline {paragraph}{Saves your time and effort}{28}{subsubsection.1.3.2}
 \contentsline {paragraph}{Improved Performance}{28}{subsubsection.1.3.2}
 \contentsline {subsection}{\numberline {1.4}Comparing with other systems}{28}{subsection.1.4}
-\contentsline {section}{Conclusions}{29}{section*.3}
-\contentsline {section}{References}{31}{section*.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Similarities and differences}{29}{subsubsection.1.4.1}
+\contentsline {section}{\numberline {2}Designing the System}{30}{section.2}
+\contentsline {subsection}{\numberline {2.1}Themes}{30}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}The Bootstrap Process}{32}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Initialize Configuration}{32}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Early Page Cache}{32}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}Initialize Database}{32}{subsubsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.5}Hostname/IP-Based Access Control}{32}{subsubsection.2.1.5}
+\contentsline {subsubsection}{\numberline {2.1.6}Initialize Session Handling}{32}{subsubsection.2.1.6}
+\contentsline {subsubsection}{\numberline {2.1.7}Late Page Cache}{32}{subsubsection.2.1.7}
+\contentsline {subsubsection}{\numberline {2.1.8}Language Determination}{33}{subsubsection.2.1.8}
+\contentsline {subsubsection}{\numberline {2.1.9}Path}{33}{subsubsection.2.1.9}
+\contentsline {subsubsection}{\numberline {2.1.10}Full}{33}{subsubsection.2.1.10}
+\contentsline {subsubsection}{\numberline {2.1.11}Processing a Request}{33}{subsubsection.2.1.11}
+\contentsline {subsubsection}{\numberline {2.1.12}Theming the Data}{33}{subsubsection.2.1.12}
+\contentsline {subsection}{\numberline {2.2}User Permissions - Use Case Model}{34}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Blocks}{34}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Modules - Sequence Model}{35}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Nodes}{35}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}State Machine Model}{35}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Class Model}{37}{subsubsection.2.5.2}
+\contentsline {section}{\numberline {3}Implementation, development methodologies}{39}{section.3}
+\contentsline {subsection}{\numberline {3.1}Meeting Drupal}{39}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}How Drupal works?}{39}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Nodes}{40}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}The Core}{40}{subsubsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.4}Fast and Flexible}{41}{subsubsection.3.1.4}
+\contentsline {subsubsection}{\numberline {3.1.5}How it flows}{41}{subsubsection.3.1.5}
+\contentsline {subsection}{\numberline {3.2}Distribution}{43}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}What is a distribution?}{43}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Distributions and installation profiles}{44}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}When we need distributions?}{44}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Creating Drupal Installation Profile}{45}{subsubsection.3.2.4}
+\contentsline {subsection}{\numberline {3.3}Custom Modules}{47}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Object Oriented Programming}{48}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Symfony 2}{48}{subsubsection.3.3.2}
+\contentsline {section}{\numberline {4}Business Plan}{49}{section.4}
+\contentsline {subsection}{\numberline {4.1}Schedule}{49}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Objectives}{49}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}SWOT Analysis}{49}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}The time meant for the accomplishment of the project and the schedule}{50}{subsubsection.4.1.3}
+\contentsline {subsection}{\numberline {4.2}Economical Proofs}{52}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Material and non-material expenses}{52}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Salary expenses}{53}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Indirect expenses}{53}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Wear calculation}{54}{subsubsection.4.2.4}
+\contentsline {subsection}{\numberline {4.3}Project Cost}{54}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Financial results}{54}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Conclusion}{54}{subsection.4.5}
+\contentsline {section}{Conclusions}{55}{section*.17}
+\contentsline {section}{References}{57}{section*.18}
